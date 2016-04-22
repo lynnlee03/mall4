@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/template/account.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/include/header.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/index.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/login.ftl=UTF-8
+encoding//src/main/webapp/WEB-INF/template/show.ftl=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8

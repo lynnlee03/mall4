@@ -1,0 +1,514 @@
+2016-04-22 13:21:56,153 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-common:0.0.1-SNAPSHOT @ F:\mall7\mall-common\pom.xml.
+2016-04-22 13:21:56,449 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:21:56,527 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-manager:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\pom.xml.
+2016-04-22 13:21:56,775 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-dao:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-dao\pom.xml.
+2016-04-22 13:21:57,145 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-meta:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-meta\pom.xml.
+2016-04-22 13:21:57,326 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-service:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-service\pom.xml.
+2016-04-22 13:21:57,911 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-web:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-web\pom.xml.
+2016-04-22 13:21:58,265 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-parent:0.0.1-SNAPSHOT @ F:\mall7\mall-parent\pom.xml.
+2016-04-22 13:22:07,196 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/main/java
+2016-04-22 13:22:07,196 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/main/resources
+2016-04-22 13:22:07,197 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/test/java
+2016-04-22 13:22:07,197 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/test/resources
+2016-04-22 13:22:07,570 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/main/java
+2016-04-22 13:22:07,570 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/main/resources
+2016-04-22 13:22:07,570 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/test/java
+2016-04-22 13:22:07,571 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/test/resources
+2016-04-22 13:22:07,710 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/main/java
+2016-04-22 13:22:07,710 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /mall-manager-dao/src/main/java overlaps with sources folder /mall-manager-dao/src/main/java
+2016-04-22 13:22:07,712 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/test/java
+2016-04-22 13:22:07,712 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-dao/src/test/resources
+2016-04-22 13:22:07,844 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/main/java
+2016-04-22 13:22:07,844 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/main/resources
+2016-04-22 13:22:07,844 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/test/java
+2016-04-22 13:22:07,844 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/test/resources
+2016-04-22 13:22:08,011 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/main/java
+2016-04-22 13:22:08,011 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/main/resources
+2016-04-22 13:22:08,012 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/test/java
+2016-04-22 13:22:08,012 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/test/resources
+2016-04-22 13:22:10,061 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 7 project(s) in 21 sec
+2016-04-22 13:22:13,117 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:22:13,658 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:13,666 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:22:13,668 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:13,669 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:22:15,353 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:15,354 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:22:15,356 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:15,357 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:22:19,623 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:19,624 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:22:19,643 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:19,644 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:22:20,525 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:20,526 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:22:20,527 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:20,528 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:22:22,373 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:22,375 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:22:22,421 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:22:22,422 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:24:01,955 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-parent:0.0.1-SNAPSHOT @ F:\mall7\mall-parent\pom.xml.
+2016-04-22 13:24:49,285 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-22 13:24:50,745 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-common:0.0.1-SNAPSHOT @ F:\mall7\mall-common\pom.xml.
+2016-04-22 13:24:50,958 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:24:51,020 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-manager:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\pom.xml.
+2016-04-22 13:24:51,172 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-dao:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-dao\pom.xml.
+2016-04-22 13:24:51,438 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-meta:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-meta\pom.xml.
+2016-04-22 13:24:51,587 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-service:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-service\pom.xml.
+2016-04-22 13:24:52,067 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-web:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-web\pom.xml.
+2016-04-22 13:24:52,359 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-parent:0.0.1-SNAPSHOT @ F:\mall7\mall-parent\pom.xml.
+2016-04-22 13:24:55,089 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/main/java
+2016-04-22 13:24:55,089 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/main/resources
+2016-04-22 13:24:55,090 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/test/java
+2016-04-22 13:24:55,090 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/test/resources
+2016-04-22 13:24:55,652 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/main/java
+2016-04-22 13:24:55,652 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /mall-manager-dao/src/main/java overlaps with sources folder /mall-manager-dao/src/main/java
+2016-04-22 13:24:55,653 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/test/java
+2016-04-22 13:24:55,653 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-dao/src/test/resources
+2016-04-22 13:24:55,874 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/main/java
+2016-04-22 13:24:55,874 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/main/resources
+2016-04-22 13:24:55,875 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/test/java
+2016-04-22 13:24:55,875 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/test/resources
+2016-04-22 13:24:56,410 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/main/java
+2016-04-22 13:24:56,410 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/main/resources
+2016-04-22 13:24:56,411 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/test/java
+2016-04-22 13:24:56,411 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/test/resources
+2016-04-22 13:24:56,702 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/main/java
+2016-04-22 13:24:56,702 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/main/resources
+2016-04-22 13:24:56,704 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/test/java
+2016-04-22 13:24:56,704 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/test/resources
+2016-04-22 13:24:58,715 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mall-manager-web
+2016-04-22 13:24:58,742 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2016-04-22 13:24:59,039 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:24:59,127 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:24:59,128 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:24:59,129 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:24:59,130 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:00,934 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:00,935 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:00,936 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:00,937 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:01,548 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:01,548 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:25:01,566 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:01,567 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:02,304 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:02,305 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:02,307 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:02,307 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:03,206 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:03,207 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:25:03,222 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:03,223 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:03,223 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mall-manager-web
+2016-04-22 13:25:03,224 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mall-manager-web
+2016-04-22 13:25:03,229 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:04,110 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:04,111 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:25:04,118 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:04,118 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:05,137 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:05,137 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:05,138 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:05,139 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:06,012 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:06,013 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:06,014 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:06,014 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:25:07,685 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:07,686 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:25:07,715 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:25:07,716 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:28:06,491 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-parent
+2016-04-22 13:28:06,491 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:28:26,169 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-common
+2016-04-22 13:28:26,169 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:28:31,289 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:28:31,358 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:28:31,362 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:28:31,364 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:28:31,364 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:10,309 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:10,310 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:10,312 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:10,312 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:10,421 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:10,421 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:10,423 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:10,424 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:11,043 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:11,044 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:29:11,053 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:11,053 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:11,879 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:11,879 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:11,881 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:11,881 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:13,272 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:13,274 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:29:13,293 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:29:13,293 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:29:19,118 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-common
+2016-04-22 13:29:19,118 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:31:14,561 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:31:15,108 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:15,109 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:15,112 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:15,112 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:15,514 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:15,515 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:15,517 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:15,517 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:16,090 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:16,091 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:16,092 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:16,092 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:16,871 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:16,872 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:16,874 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:16,875 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:18,538 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:18,538 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:18,539 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:18,540 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:29,586 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-22 13:31:31,189 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-common:0.0.1-SNAPSHOT @ F:\mall7\mall-common\pom.xml.
+2016-04-22 13:31:31,407 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:31:31,478 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-manager:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\pom.xml.
+2016-04-22 13:31:31,647 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-dao:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-dao\pom.xml.
+2016-04-22 13:31:31,950 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-meta:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-meta\pom.xml.
+2016-04-22 13:31:32,142 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-service:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-service\pom.xml.
+2016-04-22 13:31:32,592 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-web:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-web\pom.xml.
+2016-04-22 13:31:32,853 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-parent:0.0.1-SNAPSHOT @ F:\mall7\mall-parent\pom.xml.
+2016-04-22 13:31:36,253 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/main/java
+2016-04-22 13:31:36,254 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/main/resources
+2016-04-22 13:31:36,255 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/test/java
+2016-04-22 13:31:36,255 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/test/resources
+2016-04-22 13:31:36,429 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/main/java
+2016-04-22 13:31:36,430 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /mall-manager-dao/src/main/java overlaps with sources folder /mall-manager-dao/src/main/java
+2016-04-22 13:31:36,431 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/test/java
+2016-04-22 13:31:36,432 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-dao/src/test/resources
+2016-04-22 13:31:36,564 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/main/java
+2016-04-22 13:31:36,564 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/main/resources
+2016-04-22 13:31:36,565 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/test/java
+2016-04-22 13:31:36,565 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/test/resources
+2016-04-22 13:31:36,678 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/main/java
+2016-04-22 13:31:36,679 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/main/resources
+2016-04-22 13:31:36,679 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/test/java
+2016-04-22 13:31:36,680 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/test/resources
+2016-04-22 13:31:36,842 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/main/java
+2016-04-22 13:31:36,843 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/main/resources
+2016-04-22 13:31:36,844 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/test/java
+2016-04-22 13:31:36,844 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/test/resources
+2016-04-22 13:31:38,524 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mall-manager-web
+2016-04-22 13:31:38,551 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2016-04-22 13:31:39,568 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:31:39,806 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:39,807 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:39,810 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:39,811 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:41,417 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:41,418 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:41,419 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:41,420 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:42,041 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:42,042 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:31:42,062 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:42,063 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:42,935 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:42,936 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:42,937 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:42,938 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:44,035 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:44,036 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:31:44,053 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:31:44,054 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:31:44,055 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mall-manager-web
+2016-04-22 13:31:44,055 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mall-manager-web
+2016-04-22 13:31:44,063 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:34:01,086 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-parent
+2016-04-22 13:34:01,087 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:34:11,217 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-common
+2016-04-22 13:34:11,218 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:34:27,624 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:34:27,702 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:34:27,704 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:34:27,706 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:34:27,706 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:34:55,799 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:34:55,801 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:34:55,803 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:34:55,804 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:11,983 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:11,985 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:35:11,995 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:11,996 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:21,214 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:21,215 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:21,217 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:21,218 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:29,334 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:29,335 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:29,337 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:29,338 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:42,903 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-22 13:35:44,536 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-common:0.0.1-SNAPSHOT @ F:\mall7\mall-common\pom.xml.
+2016-04-22 13:35:44,758 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:35:44,838 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-manager:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\pom.xml.
+2016-04-22 13:35:45,050 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-dao:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-dao\pom.xml.
+2016-04-22 13:35:45,385 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-meta:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-meta\pom.xml.
+2016-04-22 13:35:45,593 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-service:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-service\pom.xml.
+2016-04-22 13:35:45,989 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-web:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-web\pom.xml.
+2016-04-22 13:35:46,302 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-parent:0.0.1-SNAPSHOT @ F:\mall7\mall-parent\pom.xml.
+2016-04-22 13:35:49,282 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/main/java
+2016-04-22 13:35:49,282 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/main/resources
+2016-04-22 13:35:49,283 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/test/java
+2016-04-22 13:35:49,284 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/test/resources
+2016-04-22 13:35:49,688 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/main/java
+2016-04-22 13:35:49,689 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /mall-manager-dao/src/main/java overlaps with sources folder /mall-manager-dao/src/main/java
+2016-04-22 13:35:49,690 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/test/java
+2016-04-22 13:35:49,690 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-dao/src/test/resources
+2016-04-22 13:35:49,962 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/main/java
+2016-04-22 13:35:49,963 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/main/resources
+2016-04-22 13:35:49,963 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/test/java
+2016-04-22 13:35:49,964 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/test/resources
+2016-04-22 13:35:50,143 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/main/java
+2016-04-22 13:35:50,144 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/main/resources
+2016-04-22 13:35:50,145 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/test/java
+2016-04-22 13:35:50,145 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/test/resources
+2016-04-22 13:35:50,543 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/main/java
+2016-04-22 13:35:50,543 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/main/resources
+2016-04-22 13:35:50,545 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/test/java
+2016-04-22 13:35:50,545 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/test/resources
+2016-04-22 13:35:52,820 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mall-manager-web
+2016-04-22 13:35:52,849 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2016-04-22 13:35:53,700 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:53,701 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:53,703 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:53,704 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:55,172 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:35:55,317 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:55,318 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:55,320 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:55,321 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:56,365 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:56,366 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:56,368 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:56,369 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:57,818 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:57,819 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:35:57,839 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:57,840 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:57,960 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:57,963 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:57,965 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:57,965 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:59,162 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:59,162 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:35:59,177 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:35:59,178 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:35:59,178 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mall-manager-web
+2016-04-22 13:35:59,179 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mall-manager-web
+2016-04-22 13:35:59,183 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:00,465 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:00,465 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:36:00,473 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:00,473 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:01,546 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:01,546 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:01,548 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:01,549 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:02,023 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:36:02,101 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,102 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:02,104 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,104 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:02,462 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,462 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:02,464 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,465 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:02,763 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,764 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:36:02,774 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,775 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:02,954 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,955 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:02,957 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:02,957 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:04,044 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:04,044 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:36:04,046 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:36:04,047 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:37:55,671 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-parent
+2016-04-22 13:37:55,671 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:38:04,978 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-common
+2016-04-22 13:38:04,979 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:38:24,749 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mall-manager-web
+2016-04-22 13:38:25,281 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:38:25,410 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:25,411 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:25,413 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:25,413 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:26,373 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:26,374 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:26,375 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:26,376 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:27,042 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:27,043 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:38:27,056 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:27,057 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:27,930 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:27,931 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:27,933 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:27,933 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:29,809 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:29,809 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:38:29,830 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:38:29,831 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:38:29,831 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mall-manager-web
+2016-04-22 13:38:29,832 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mall-manager-web
+2016-04-22 13:38:29,837 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:39:55,118 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-parent
+2016-04-22 13:39:55,119 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-04-22 13:40:04,799 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-parent
+2016-04-22 13:40:04,800 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:40:13,368 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-common
+2016-04-22 13:40:13,368 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-04-22 13:40:32,818 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:41:22,954 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-common
+2016-04-22 13:41:22,954 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:42:19,317 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-22 13:42:21,545 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-common:0.0.1-SNAPSHOT @ F:\mall7\mall-common\pom.xml.
+2016-04-22 13:42:21,801 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:42:21,929 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-manager:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\pom.xml.
+2016-04-22 13:42:22,131 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-dao:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-dao\pom.xml.
+2016-04-22 13:42:22,741 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-meta:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-meta\pom.xml.
+2016-04-22 13:42:22,939 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-service:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-service\pom.xml.
+2016-04-22 13:42:23,643 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-web:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-web\pom.xml.
+2016-04-22 13:42:24,219 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-parent:0.0.1-SNAPSHOT @ F:\mall7\mall-parent\pom.xml.
+2016-04-22 13:42:28,468 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/main/java
+2016-04-22 13:42:28,468 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/main/resources
+2016-04-22 13:42:28,469 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/test/java
+2016-04-22 13:42:28,470 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/test/resources
+2016-04-22 13:42:28,664 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/main/java
+2016-04-22 13:42:28,664 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /mall-manager-dao/src/main/java overlaps with sources folder /mall-manager-dao/src/main/java
+2016-04-22 13:42:28,665 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/test/java
+2016-04-22 13:42:28,666 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-dao/src/test/resources
+2016-04-22 13:42:28,838 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/main/java
+2016-04-22 13:42:28,838 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/main/resources
+2016-04-22 13:42:28,839 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/test/java
+2016-04-22 13:42:28,840 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/test/resources
+2016-04-22 13:42:29,064 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/main/java
+2016-04-22 13:42:29,065 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/main/resources
+2016-04-22 13:42:29,066 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/test/java
+2016-04-22 13:42:29,066 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/test/resources
+2016-04-22 13:42:29,282 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/main/java
+2016-04-22 13:42:29,283 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/main/resources
+2016-04-22 13:42:29,284 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/test/java
+2016-04-22 13:42:29,285 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/test/resources
+2016-04-22 13:42:31,851 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mall-manager-web
+2016-04-22 13:42:31,878 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2016-04-22 13:43:50,822 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-parent
+2016-04-22 13:43:50,822 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:45:01,748 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-04-22 13:45:05,402 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-common:0.0.1-SNAPSHOT @ F:\mall7\mall-common\pom.xml.
+2016-04-22 13:45:06,250 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:45:06,339 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-manager:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\pom.xml.
+2016-04-22 13:45:06,531 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-dao:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-dao\pom.xml.
+2016-04-22 13:45:07,236 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-meta:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-meta\pom.xml.
+2016-04-22 13:45:07,422 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-service:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-service\pom.xml.
+2016-04-22 13:45:08,522 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.lynn:mall-manager-web:0.0.1-SNAPSHOT @ F:\mall7\mall-manager\mall-manager-web\pom.xml.
+2016-04-22 13:45:09,102 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lynn:mall-parent:0.0.1-SNAPSHOT @ F:\mall7\mall-parent\pom.xml.
+2016-04-22 13:45:13,979 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/main/java
+2016-04-22 13:45:13,980 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/main/resources
+2016-04-22 13:45:13,981 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-common/src/test/java
+2016-04-22 13:45:13,981 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-common/src/test/resources
+2016-04-22 13:45:14,234 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/main/java
+2016-04-22 13:45:14,235 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /mall-manager-dao/src/main/java overlaps with sources folder /mall-manager-dao/src/main/java
+2016-04-22 13:45:14,236 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-dao/src/test/java
+2016-04-22 13:45:14,236 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-dao/src/test/resources
+2016-04-22 13:45:14,469 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/main/java
+2016-04-22 13:45:14,470 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/main/resources
+2016-04-22 13:45:14,471 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-meta/src/test/java
+2016-04-22 13:45:14,471 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-meta/src/test/resources
+2016-04-22 13:45:14,677 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/main/java
+2016-04-22 13:45:14,678 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/main/resources
+2016-04-22 13:45:14,679 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-service/src/test/java
+2016-04-22 13:45:14,680 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-service/src/test/resources
+2016-04-22 13:45:15,000 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/main/java
+2016-04-22 13:45:15,001 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/main/resources
+2016-04-22 13:45:15,002 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mall-manager-web/src/test/java
+2016-04-22 13:45:15,003 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mall-manager-web/src/test/resources
+2016-04-22 13:45:16,983 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mall-manager-web
+2016-04-22 13:45:16,999 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2016-04-22 13:45:18,274 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:18,275 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:18,277 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:18,278 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:18,691 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:45:18,770 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:18,772 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:18,774 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:18,774 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:19,623 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:19,623 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:19,625 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:19,626 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:20,226 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:20,227 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:45:20,269 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:20,270 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:20,366 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:20,368 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:20,370 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:20,371 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:21,547 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:21,548 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-04-22 13:45:21,638 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:21,639 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:21,639 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mall-manager-web
+2016-04-22 13:45:21,640 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mall-manager-web
+2016-04-22 13:45:21,644 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:22,553 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:22,554 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:45:22,562 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:22,563 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:23,624 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:23,625 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:23,627 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:23,627 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:24,095 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2016-04-22 13:45:24,170 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:24,171 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:24,173 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:24,173 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:24,576 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:24,577 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:24,603 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:24,604 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:24,870 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:24,871 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-04-22 13:45:24,879 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:24,880 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:25,056 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:25,058 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:25,060 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:25,061 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:26,474 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:26,475 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:45:26,476 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 13:45:26,477 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 13:47:05,523 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-common
+2016-04-22 13:47:05,524 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:47:20,082 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-manager
+2016-04-22 13:47:20,082 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-04-22 13:47:45,838 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-22 13:48:04,561 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-manager
+2016-04-22 13:48:04,561 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat7:run
+2016-04-22 13:50:15,748 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-04-22 13:50:15,963 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-manager
+2016-04-22 13:50:15,963 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat7:run
+2016-04-22 13:56:16,258 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-04-22 13:56:16,542 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\mall7\mall-manager
+2016-04-22 13:56:16,543 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat7:run

@@ -1,0 +1,4 @@
+com\lynn\dao\BaseMapper_T.class
+com\lynn\dao\PersonMapper.class
+com\lynn\dao\TrxMapper.class
+com\lynn\dao\ContentMapper.class
